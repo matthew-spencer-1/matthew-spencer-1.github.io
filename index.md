@@ -1,6 +1,8 @@
 # Matthew Spencer
 ## Technology Generalist: If it needs to be done, I can do it!
 
+![MATTHEW SPENCER](/images/avatar/IMG_0988.jpeg)
+
 You can use the [editor on GitHub](https://github.com/matthew-spencer-1/matthew-spencer-1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
