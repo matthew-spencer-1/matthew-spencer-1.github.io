@@ -5,7 +5,7 @@
 [<img src="/images/misc/LI-In-Bug.png" width="25px">](https://www.linkedin.com/in/m-p-spencer/) [Find Me on LinkedIn](https://www.linkedin.com/in/m-p-spencer/)
 
 # Personal Overview
-## A [frank and honest discussion](/selfAssesment.md) of how my education and experience combine to create the capability to handle any tasks thrown my way.
+A [frank and honest discussion](/selfAssesment.md) of how my education and experience combine to create the capability to handle any tasks thrown my way.
 
 # Portfolio Projects
 ## Code Review
