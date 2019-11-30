@@ -10,13 +10,9 @@ Initially developed in C++ the project highlights the basic set of OpenGL capabi
 - This is my initial foray into OpenGL, as such many of the components are fairly unrefined. The work, they do what they are supposed to do, but it doesn't look all that pretty in the code.
 
 Please feel free to examine the code base, [located here](https://github.com/matthew-spencer-1/openGL_CPP).
-In windows, the rendering will look something like this
-<<<<<<< HEAD
+In windows, the rendering will look something like this:
 ![Windows C++ ScreenShot](/images/openGL/WindowsSS.png =width250x191)
 <img src="/images/openGL/WindowsSS.png" width="250" height="191"/>
-=======
-![Windows C++ ScreenShot](/images/openGL/WindowsSS.png)
->>>>>>> 4f787fa0eb29831760bad7cf3070d69b50a00af9
 
 ## Java
 Java has been my primary development language for more than a decade. While I have taken many trips through the lands of Python, .Net, C, and many others, it seems Java is where I always end up sooner or later. Learning OpenGL in C++ two things continually frustrated me:
