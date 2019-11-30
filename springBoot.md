@@ -1,7 +1,14 @@
 # Spring Boot & MongoDB
 Spring has been a strong framework, in various implementations, in Java for well over a decade. Spring Boot refine many of the problems with Spring MVC, primarily that applications start quickly and no longer require being deployed to an external web-server. This capability allows for applications to adopt a more modular mindset, implementing micro-services.  
 This project is an overview of a web application leveraging a MongoDB back end for storing data. The application utilizes role base security for access to various functionality.  
-### Microservices
+
+Development for the final version of this application came in two phases. 
+- First was the build out of the SpringBoot application framework, and Java objects, and the connection to the MongoDB backend. 
+	- This process is outlined in more detail in the [Development Narrative](/ProjectNarratives/Milestone4Narrative.pdf) for this section.
+- Second was the build out of the full security layer including user sign up and login functionality. Along with the security implementation came configuration of access based on user roles
+	- This process is outlined in more detail in the [Development Narrative](/ProjectNarratives/Milestone3Narrative.pdf) for this section.
+
+#### A quick note about Microservices
 In a true microservices implementation, the HTML based web application would be a separate implementation from a REST based web application. However, this codebase implements both. The REST and HTML portions of the application act separately, for example, there are two different controller classes. While the implementation is in a single repository, the behavior is a microservices mindset. For example, where the HTML side of the house can easily import and upload a JSON file to the database, instead, it simply pushes the file over to the REST interface as though it were running on a separate server. Similarly, interfaces for updating, deleting, and inserting new records use the REST interfaces rather than make calls directly to the database to reflect a microservices mindset.
 
 ## Functionality
