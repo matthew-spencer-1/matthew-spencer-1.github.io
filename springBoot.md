@@ -19,3 +19,8 @@ The application is meant to allow a user to have an overview of stock performanc
 
 ## Code Base
 Please feel free to review the implementation code base [here](https://github.com/matthew-spencer-1/Java_SpingBoot_MongoDb_Login)
+A few notes:
+- By default, any user signed up through the sign-up page will have USER access, the first ADMIN must be created at the database
+- Stock data for the app is [here](/projectDataFiles/bootMongoSecurity/Stocks.csv) (.csv) and can be pushed to the app through the web page
+- There is no security configured for the MongoDB in application.properties
+- MongoDB database and collections will generate when the application is run for the first time, including necessary default data such as roles
