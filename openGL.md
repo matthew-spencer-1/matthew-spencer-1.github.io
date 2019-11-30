@@ -3,6 +3,8 @@ OpenGL is a powerful cross platform graphics library. It has capabilities which 
 
 The projects highlighted here are essentially two implementations of the same idea. The creation of a representation of a real-world object in a simple OpenGL environment, in this case a tray table used for eating dinner while watching my favorite movies on streaming services.
 
+Below you will find an brief overview about each project, and a little insight into my thought process in converting this application. I've written a [deeper narrative](/ProjectNarratives/Milestone2Narrative.pdf) regarding the development process which will provide even more insight.
+
 ## C++
 Initially developed in C++ the project highlights the basic set of OpenGL capabilities such as lighting, texture mapping, movement. There are two caveats to this project.
 - C++ is not my forte
