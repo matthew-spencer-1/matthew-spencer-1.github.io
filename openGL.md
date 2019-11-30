@@ -22,8 +22,8 @@ Reimplementing the project in Java solved those two problems for me. Additionall
 - More modular, far cleaner implementation
 - Cross platform compatibility
 - Far better understanding of the workings of OpenGL
-The code base for the implementation is located [here](https://github.com/matthew-spencer-1/openGL_Java).
-Rendering in Java is slightly different than that of C++. This is due to different lighting design between the two implemenations
+  - The code base for the implementation is located [here](https://github.com/matthew-spencer-1/openGL_Java).
+  - Rendering in Java is slightly different than that of C++. This is largely due to different lighting design between the two implemenations
 
 | Java on Mac | Java on Windows |
 | :---: | :---: |
