@@ -18,7 +18,7 @@ The application is meant to allow a user to have an overview of stock performanc
 		- Provide access to REST interface methods capable of writing to the database (Read-only REST methods are open access). Has no access to HTML pages.
 
 ## Code Base
-Please feel free to review the implementation code base [here](https://github.com/matthew-spencer-1/Java_SpingBoot_MongoDb_Login)
+Please feel free to review the implementation code base [here](https://github.com/matthew-spencer-1/Java_SpingBoot_MongoDb_Login)  
 A few notes:
 - By default, any user signed up through the sign-up page will have USER access, the first ADMIN must be created at the database
 - Stock data for the app is [here](/projectDataFiles/bootMongoSecurity/Stocks.csv) (.csv) and can be pushed to the app through the web page
