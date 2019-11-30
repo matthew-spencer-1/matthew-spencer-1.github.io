@@ -25,7 +25,7 @@ Reimplementing the project in Java solved those two problems for me. Additionall
 - Far better understanding of the workings of OpenGL
 The code base for the implementation is located [here](https://github.com/matthew-spencer-1/openGL_Java).
 Rendering in Java is slightly different than that of C++. This is due to different lighting design between the two implemenations
-|Java on Mac | Java on Windows|
-|---|---|
-|<img src="images/openGL/JavaMacSS.png" width="375"/>|<img src="images/openGL/JavaWinSS.png"/>|
 
+| Java on Mac | Java on Windows |
+| :---: | :---: |
+| <img src="images/openGL/JavaMacSS.png" width="350"/> | <img src="images/openGL/JavaWinSS.png" width="350"/> |
