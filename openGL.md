@@ -9,8 +9,7 @@ Initially developed in C++ the project highlights the basic set of OpenGL capabi
   - I'm capable of working in C++ and can understand what is happening in any C++ implementation. However, I haven't used it regularly in such a long time I've forgotten many of the finer point s of the language when it comes to creating modular, encapsulated code.
 - This is my initial foray into OpenGL, as such many of the components are fairly unrefined. The work, they do what they are supposed to do, but it doesn't look all that pretty in the code.
 
-Please feel free to examine the code base, [located here](https://github.com/matthew-spencer-1/openGL_CPP).
-In windows, the rendering will look something like this:
+Please feel free to examine the code base, [located here](https://github.com/matthew-spencer-1/openGL_CPP).  
 <img src="/images/openGL/WindowsSS.png" width="375" height="287"/>
 
 ## Java
@@ -23,9 +22,9 @@ Reimplementing the project in Java solved those two problems for me. Additionall
 - More modular, far cleaner implementation
 - Cross platform compatibility
 - Far better understanding of the workings of OpenGL
-The code base for the implementation is located [here](https://github.com/matthew-spencer-1/openGL_Java).
-Rendering in Java is slightly different than that of C++. This is due to different lighting design between the two implemenations
-|Java on Mac | Java on Windows|
-|---|---|
-|<img src="images/openGL/JavaMacSS.png" width="375"/>|<img src="images/openGL/JavaWinSS.png"/>|
+  - The code base for the implementation is located [here](https://github.com/matthew-spencer-1/openGL_Java).
+  - Rendering in Java is slightly different than that of C++. This is largely due to different lighting design between the two implemenations
 
+| Java on Mac | Java on Windows |
+| :---: | :---: |
+| <img src="images/openGL/JavaMacSS.png" width="350"/> | <img src="images/openGL/JavaWinSS.png" width="350"/> |
