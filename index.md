@@ -1,7 +1,6 @@
-## Technology Generalist: If it needs to be done, I can do it!
+# Technology Generalist:  If it needs to be done, I can do it!
 
-### One can have the best pedigree in the world, and still have the work ethic of a sloth. In this world results matter. I produce results. On time delivery, unexpected, accurate and complete solutions to complex problems due to full and complete understanding of requirements. You want results: pedigree is irrelevant.
-
+**_One can have the best pedigree in the world, and still have the work ethic of a sloth. In this world results matter. I produce results. On time delivery, unexpected, accurate and complete solutions to complex problems due to full and complete understanding of requirements. You want results: pedigree is irrelevant._**
 
 # Portfolio Projects
 ## Open GL
