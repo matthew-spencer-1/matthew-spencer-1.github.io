@@ -4,9 +4,14 @@
 ### One can have the best pedigree in the world, and still have the work ethic of a sloth. In this world results matter. I produce results. On time delivery, unexpected, accurate and complete solutions to complex problems due to full and complete understanding of requirements. You want results: pedigree is irrelevant.
 
 
-## Portfolio Projects
+# Portfolio Projects
 ## Open GL
 An implementation of graphics using OpenGL. Creation of a simple object using a minimal number of triangles. Take a look at the [overview page](/openGL.html)
+
+## Spring Boot / MongoDB
+A simple spring boot web application which leverages user authentication allowing functionality based on role. Take a look at the [overview page](/springBoot.md)
+
+
 
 You can use the [editor on GitHub](https://github.com/matthew-spencer-1/matthew-spencer-1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
