@@ -11,8 +11,7 @@ Initially developed in C++ the project highlights the basic set of OpenGL capabi
 
 Please feel free to examine the code base, [located here](https://github.com/matthew-spencer-1/openGL_CPP).
 In windows, the rendering will look something like this:
-![Windows C++ ScreenShot](/images/openGL/WindowsSS.png =width250x191)
-<img src="/images/openGL/WindowsSS.png" width="250" height="191"/>
+<img src="/images/openGL/WindowsSS.png" width="375" height="287"/>
 
 ## Java
 Java has been my primary development language for more than a decade. While I have taken many trips through the lands of Python, .Net, C, and many others, it seems Java is where I always end up sooner or later. Learning OpenGL in C++ two things continually frustrated me:
