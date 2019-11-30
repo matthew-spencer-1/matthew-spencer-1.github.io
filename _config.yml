@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Welcome to Matthew Spencer's portfolio page!
 description: A repository of sample work made available for your review
----
-permalink: http://www.facebook.com
----
+twitter:
+  username  : &twitter
+og_image    :
 plugins:
   - jekyll-relative-links
 relative_links:
