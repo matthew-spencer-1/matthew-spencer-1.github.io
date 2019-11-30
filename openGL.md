@@ -12,6 +12,7 @@ Initially developed in C++ the project highlights the basic set of OpenGL capabi
 Please feel free to examine the code base, [located here](https://github.com/matthew-spencer-1/openGL_CPP).
 In windows, the rendering will look something like this
 ![Windows C++ ScreenShot](/images/openGL/WindowsSS.png =width250x191)
+<img href="/images/openGL/WindowsSS.png" width="250" height="191"/>
 
 ## Java
 
