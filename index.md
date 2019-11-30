@@ -4,8 +4,8 @@
 
 [<img src="/images/misc/LI-In-Bug.png" width="25px">](https://www.linkedin.com/in/m-p-spencer/) [Find Me on LinkedIn](https://www.linkedin.com/in/m-p-spencer/)
 
-# Personal Overview
-A [frank and honest discussion](/selfAssesment.md) of how my education and experience combine to create the capability to handle any tasks thrown my way.
+# Professional Overview
+I am [adaptable and a learner](/ProjectNaratives/CliftonStrengths.pdf); first, second, and foremost. For me, there is nothing more satisfying than being thrown at a project that is a little outside my wheelhouse. The truth is, this is where I do my best work. All too often people want to stay in their lane, practicing what they know until they have it perfected. For me that won't work. It's so much better, in my mind, to be ready to lend a hand where and when it is needed. I'm being very direct and stating I'm not an expert at any one thing. That may seem bad, but let me give you a [frank and honest assesment](/selfAssesment.md) of how my education and experience combine to create the capability to handle any tasks thrown my way.
 
 # Portfolio Projects
 ## Code Review
