@@ -12,7 +12,17 @@ Initially developed in C++ the project highlights the basic set of OpenGL capabi
 Please feel free to examine the code base, [located here](https://github.com/matthew-spencer-1/openGL_CPP).
 In windows, the rendering will look something like this
 ![Windows C++ ScreenShot](/images/openGL/WindowsSS.png =width250x191)
-<img href="/images/openGL/WindowsSS.png" width="250" height="191"/>
+<img src="/images/openGL/WindowsSS.png" width="250" height="191"/>
 
 ## Java
+Java has been my primary development language for more than a decade. While I have taken many trips through the lands of Python, .Net, C, and many others, it seems Java is where I always end up sooner or later. Learning OpenGL in C++ two things continually frustrated me:
+- The materials for learning the libraries are restricted to a Windows implementation of C++
+ - Many of the libraries are functionally equivalent, but named slightly differently in a Linux or MacOS environment. Thus meaning to work on my Mac, I would need to re-write the code prior to turning it in for assessment. Frankly, that's too much work.
+ - Not being well versed in C++, it bothered me building everything in a single, long, .cpp file.
+
+Reimplementing the project in Java solved those two problems for me. Additionally, it brought about a third problem I didn't know I had
+- More modular, far cleaner implementation
+- Cross platform compatibility
+- Far better understanding of the workings of OpenGL
+The code base for the implementation is located [here](https://github.com/matthew-spencer-1/openGL_Java).
 
