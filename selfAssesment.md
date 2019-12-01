@@ -42,6 +42,8 @@ In the workforce, security is the primary concern in any application development
 In education circles, even in computer science, security is not of paramount concern. Beyond requiring a semi-annual password change, there are very few requirements for security on the network within an educational setting. Concerning secure coding practices much handwaving is made, but little in the way of actual training on what secure practices mean. When APIs and standard libraries are leveraged in an academic setting, they are often several releases out of date, many of those patches being security related. The student, becomes used to leveraging these deprecated APIs without knowing there is an issue, is lost in the workforce when the tools they know are no longer allowed in the box.
 
 ## Experience and Education: A match for the ages
+Education is not the end of the journey. In and of itself, an education is worthless. It is there to serve as the jumping off point for something far greater. The knowledge gained through education can lend itself greatly to an individual’s ability to gain experience. With a solid foundation one is more prepared to handle the adversities that come about throughout a career. In this way, experience relies on a solid education to foster growth.  
+
 **Collaboration**  
 My current company values diversity and inclusion. We know that in today’s environment every individual is a person who may come up with the next winning idea. Their background lends to the set of ideas and ideals which make them capable of great things. Every project is a team project and with very rare exception, there are no lone wolves.  
   
