@@ -43,8 +43,23 @@ In education circles, even in computer science, security is not of paramount con
 
 ## Experience and Education: A match for the ages
 **Collaboration**  
+My current company values diversity and inclusion. We know that in today’s environment every individual is a person who may come up with the next winning idea. Their background lends to the set of ideas and ideals which make them capable of great things. Every project is a team project and with very rare exception, there are no lone wolves.  
+  
+While education may be lacking in collaboration for creation of output, education goes a long way in laying the groundwork for creating a diverse, inclusive and collaborative workforce. Many students are required to take classes such as diversity studies to gain perspective on understanding and treating people as individuals. Going beyond classes, opportunities exist within ever class in the form of interaction with many individuals. It is impossible to work through a four-year education and not gain a stronger perspective of individuality which will lead to stronger teamwork and better collaboration.  
+  
 **Innovation**  
+Higher, farther, faster. Bigger, stronger, better. Catch phrases of the modern world. Any company who is not innovating in some way or another is falling behind. There are very few industries, even fewer companies that can continue to do business without changing their business practices and products.  
+  
+Where computer science is concerned, for the most part education is trapped in the bronze age. Theory doesn’t tend to change over time, implementation is where change happens. However, the individual seeking an education is forcing change on themselves. It is in this manner that an education prepares an individual and readies them for experience.  
+A student must gain knowledge in a wide array of subjects to gain accreditation. Being forced outside of comfortable areas means new ideas. These ideas may bring about insight into an area which is in desperate need of something new. Suddenly, education becomes paramount to innovation. Experience enables the “how” of innovation, education explains the “why”.  
+  
 **Algorithms, Data Structures and Standard Practices**  
+Being trapped in the bronze age forces the computer science student to re-invent the wheel during their education. Over and over again students write by hand the best sorting method, a binary tree, a doubly linked list, and so much more. The student will write comments on code for no other reason than to show they know what it does. Repetition and conformity bring about the best grades. Real world experience turns these practices on their head. The need to be efficient outweighs everything else. 
+
+Hard skills, those skills directly related to the field, are not all that matter in the realm of experience. Standard practices are often anything but standard. Every company has their own way of doing things. Code formatting, platforms, languages, environments even design patterns are all up to the whim of the people at the top. For many people, work in the field means working with many different companies. In this case, education lends itself very well to the set of soft skills needed to be adaptable to the real-world experience.  
+
+Every student will have to adjust to a new set of criteria for acceptable performance with every class they take. The student who is best able to adapt is best able to perform. Here is where the experience of education is even better than the experience of the real-world. The need for flexibility and quick adaptation in academia enable a person in the computer science field to be well prepared for the variance in the real world.
+
 **Security**  
 
 # In a nutshell, experience + education = solid skills
