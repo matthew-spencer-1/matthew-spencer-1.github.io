@@ -7,5 +7,12 @@ While I have a great deal of experience, in today’s job market there seems to 
 In the field of Computer Science there seems to be a rather precarious dichotomy between experience and education. At times, education and experience work hand-in-glove to bring about the best in each individual. However, just as often, experience and education are at odds with each other leaving a recent graduate unprepared for what awaits them in the real world.
 
 ## Education vs Experience: Battle Royale
-
+1. Collaboration
+1. Innovation
+1. Algorithms, Data Structures and Standard Practices
+1. Security
 ## Experience and Education: A match for the ages
+1. Collaboration
+1. Innovation
+1. Algorithms, Data Structures and Standard Practices
+1. Security
