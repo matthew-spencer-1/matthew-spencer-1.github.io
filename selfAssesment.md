@@ -61,5 +61,8 @@ Hard skills, those skills directly related to the field, are not all that matter
 Every student will have to adjust to a new set of criteria for acceptable performance with every class they take. The student who is best able to adapt is best able to perform. Here is where the experience of education is even better than the experience of the real-world. The need for flexibility and quick adaptation in academia enable a person in the computer science field to be well prepared for the variance in the real world.
 
 **Security**  
+In the world today, especially in anything having to do with software security must be the first priority, first consideration, and factored into every step of the development process. This is a level of expertise that can only come through solid experience. Leaning on standard practices and policies of a company makes a tremendous difference in a person’s ability to do solid, secure work.  
+  
+Unfortunately, when it comes to education, the lack of being caught up to the state of the art means a lack of understanding of security. It is impossible to learn how to secure an ECS container from external access through the use of Lamda settings when cloud computing is not something touched by an educational institution. However, like standard practices, the forced adaptability an educational institution instills on its graduates means a level of flexibility and acceptance that things have to be done the “correct” way even when they make very little sense on the surface.
 
 # In a nutshell, experience + education = solid skills
