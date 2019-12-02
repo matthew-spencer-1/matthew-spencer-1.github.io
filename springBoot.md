@@ -1,6 +1,6 @@
 # Spring Boot & MongoDB
 Spring has been a strong framework, in various implementations, in Java for well over a decade. Spring Boot refine many of the problems with Spring MVC, primarily that applications start quickly and no longer require being deployed to an external web-server. This capability allows for applications to adopt a more modular mindset, implementing micro-services.  
-This project is an overview of a web application leveraging a MongoDB back end for storing data. The application utilizes role base security for access to various functionality.  
+This project is an overview of a web application leveraging a MongoDB back end for storing data. The application utilizes role-based security for access to various functionality.  
 
 Development for the final version of this application came in two phases. 
 - First was the build out of the SpringBoot application framework, and Java objects, and the connection to the MongoDB backend. 
